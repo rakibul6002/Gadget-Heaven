@@ -1,0 +1,413 @@
+[
+
+  {
+    "product_id": "P001",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/tQWWSrd/Galaxy-S23-Ultra-Green-3380.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "The Samsung Galaxy S23 Ultra combines cutting-edge technology with an exceptional camera.",
+    "specification": [
+      "6.8-inch QHD+ Dynamic AMOLED display",
+      "Snapdragon 8 Gen 2 processor",
+      "200MP Main camera",
+      "S Pen support",
+      "Up to 1TB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+},
+{
+    "product_id": "L001",
+    "product_title": "Apple MacBook Pro 16-inch",
+    "product_image": "https://i.ibb.co.com/HTXr8m4/3713-12439.jpg",
+    "category": "Laptops",
+    "price": 2499,
+    "description": "Apple MacBook Pro 16-inch with M1 Pro chip for powerful performance.",
+    "specification": [
+      "16.2-inch Liquid Retina XDR display",
+      "Apple M1 Pro chip",
+      "16GB RAM",
+      "512GB SSD",
+      "Up to 21 hours battery life"
+    ],
+    "availability": "In Stock",
+    "rating": 4.9
+  },
+{
+    "product_id": "SW001",
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://i.ibb.co.com/Dr3JvqL/Watch-Series-7-41mm-Cellular.jpg",
+    "category": "Smart Watches",
+    "price": 399,
+    "description": "Apple Watch Series 7 with larger display and advanced health tracking.",
+    "specification": [
+      "41mm and 45mm display options",
+      "Always-on Retina display",
+      "Blood Oxygen and ECG app",
+      "Up to 18 hours battery life",
+      "Water-resistant up to 50 meters"
+    ],
+    "availability": "In Stock",
+    "rating": 4.9
+  },
+{
+    "product_id": "iP001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/P4jz22n/i-Phone-15-Plus-2-6-5363.jpg",
+    "category": "iPhone",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+{
+    "product_id": "P002",
+    "product_title": "Google Pixel 5",
+    "product_image": "https://i.ibb.co.com/8s3612w/Google-Pixel-5-Silicone-Case-Black.png",
+    "category": "Phones",
+    "price": 699,
+    "description": "Capture stunning photos and enjoy pure Android experience with the Google Pixel 5.",
+    "specification": [
+      "6.0-inch OLED display",
+      "Qualcomm Snapdragon 765G processor",
+      "12.2MP dual camera system",
+      "5G support",
+      "128GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.4
+  },  {
+    "product_id": "L002",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/MVQpsZW/Dell-XPS-13-Plus-BD-Price-1.webp",
+    "category": "Laptops",
+    "price": 1199,
+    "description": "Dell XPS 13 with a stunning 4K display and sleek design.",
+    "specification": [
+      "13.4-inch 4K UHD+ display",
+      "Intel Core i7-1165G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Up to 14 hours battery life"
+    ],
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+{
+    "product_id": "SW002",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/4T4m7ht/galaxy-watch4-silver.webp",
+    "category": "Smart Watches",
+    "price": 249,
+    "description": "Samsung Galaxy Watch 4 with Wear OS and advanced fitness tracking.",
+    "specification": [
+      "40mm and 44mm display options",
+      "Wear OS by Google",
+      "Body Composition Analysis",
+      "Up to 40 hours battery life",
+      "Water-resistant up to 50 meters"
+    ],
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+ {
+    "product_id": "iP002",
+    "product_title": "Apple iPhone 15 Pro",
+    "product_image": "https://i.ibb.co.com/9W6050w/i-Phone-15-Plus-2-1-6945.jpg",
+    "category": "iPhone",
+    "price": 1099,
+    "description": "The iPhone 15 Pro combines innovative technology with a stunning design.",
+    "specification": [
+      "6.1-inch Super Retina XDR display",
+      "A17 Pro chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "ProRAW and ProRes video recording",
+      "Up to 1TB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.9
+  },
+{
+    "product_id": "P003",
+    "product_title": "OnePlus 9",
+    "product_image": "https://i.ibb.co.com/RpVY9xq/Wintermist-2080a-euna.png",
+    "category": "Phones",
+    "price": 729,
+    "description": "Experience speed and smoothness with the OnePlus 9, equipped with Hasselblad camera technology.",
+    "specification": [
+      "6.55-inch Fluid AMOLED display",
+      "Snapdragon 888 processor",
+      "48MP triple camera system",
+      "Fast charging technology",
+      "Up to 256GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.6
+  },{
+    "product_id": "L003",
+    "product_title": "HP Spectre x360 14",
+    "product_image": "https://i.ibb.co.com/19k4mr2/c08799121.png",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "HP Spectre x360 14 with 2-in-1 flexibility and stunning OLED display.",
+    "specification": [
+      "13.5-inch OLED touch display",
+      "Intel Core i7-1165G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Up to 12 hours battery life"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+{
+    "product_id": "SW003",
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/WH5BK31/Fitbit-Versa-3-Smart-Watch-Black-9119.jpg",
+    "category": "Smart Watches",
+    "price": 229,
+    "description": "Fitbit Versa 3 with GPS, heart rate monitoring, and built-in voice assistant.",
+    "specification": [
+      "1.58-inch AMOLED display",
+      "Built-in GPS",
+      "Heart rate monitor and SpO2 sensor",
+      "Up to 6 days battery life",
+      "Water-resistant up to 50 meters"
+    ],
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+{
+    "product_id": "iP003",
+    "product_title": "Apple iPhone 15",
+    "product_image": "https://i.ibb.co.com/3BqcDFd/i-Phone-15-Plus-3-8671.jpg",
+    "category": "iPhone",
+    "price": 999,
+    "description": "The iPhone 15 offers powerful performance in a sleek design.",
+    "specification": [
+      "6.1-inch Super Retina XDR display",
+      "A16 Bionic chip",
+      "Dual-camera system (48MP Main, 12MP Ultrawide)",
+      "Face ID",
+      "Up to 512GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+{
+    "product_id": "P004",
+    "product_title": "Xiaomi Mi 11",
+    "product_image": "https://i.ibb.co.com/T8Hdxpz/pms-1666344667-93946102.png",
+    "category": "Phones",
+    "price": 749,
+    "description": "Unleash your creativity with the Xiaomi Mi 11's stunning camera and display.",
+    "specification": [
+      "6.81-inch AMOLED display",
+      "Snapdragon 888 processor",
+      "108MP triple camera system",
+      "Fast charging",
+      "Up to 256GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+{
+    "product_id": "L004",
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.ibb.co.com/YWDqgM5/sur21-laptop4-feature-primary.webp",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "Microsoft Surface Laptop 4 with PixelSense touchscreen and excellent performance.",
+    "specification": [
+      "13.5-inch PixelSense touch display",
+      "AMD Ryzen 5 / Intel Core i5",
+      "8GB RAM",
+      "256GB SSD",
+      "Up to 19 hours battery life"
+    ],
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+{
+    "product_id": "SW004",
+    "product_title": "Garmin Venu 2",
+    "product_image": "https://i.ibb.co.com/ZxD4NCd/venu-2-blue-cf-lg.webp",
+    "category": "Smart Watches",
+    "price": 399,
+    "description": "Garmin Venu 2 with AMOLED display and advanced fitness and health tracking.",
+    "specification": [
+      "1.3-inch AMOLED display",
+      "Sleep score and body battery monitoring",
+      "GPS and heart rate sensor",
+      "Up to 11 days battery life",
+      "Water-resistant up to 50 meters"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+ {
+    "product_id": "iP004",
+    "product_title": "Apple iPhone 14",
+    "product_image": "https://i.ibb.co.com/VjVMG2Y/i-Phone-14-Blue-7810.jpg",
+    "category": "iPhone",
+    "price": 799,
+    "description": "The iPhone 14 features a powerful dual-camera system and stunning display.",
+    "specification": [
+      "6.1-inch Super Retina XDR display",
+      "A15 Bionic chip",
+      "Dual-camera system (12MP Main, 12MP Ultrawide)",
+      "Emergency SOS via satellite",
+      "Up to 512GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+{
+    "product_id": "P005",
+    "product_title": "Sony Xperia 1 II",
+    "product_image": "https://i.ibb.co.com/NVgqZPz/xperia-1-ii.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "A cinematic experience with the Sony Xperia 1 II's 4K HDR OLED display.",
+    "specification": [
+      "6.5-inch 4K HDR OLED display",
+      "Qualcomm Snapdragon 865 processor",
+      "12MP triple camera system",
+      "4K video recording",
+      "Up to 256GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.3
+  },
+
+ {
+    "product_id": "L005",
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 9",
+    "product_image": "https://i.ibb.co.com/5GVGtCR/3c04c13d-686d-4577-a1a9-043c8ca85f7d.jpg",
+    "category": "Laptops",
+    "price": 1499,
+    "description": "Lenovo ThinkPad X1 Carbon Gen 9 with durability and top-notch keyboard.",
+    "specification": [
+      "14-inch Full HD display",
+      "Intel Core i7-1165G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Up to 15 hours battery life"
+    ],
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+{
+    "product_id": "SW005",
+    "product_title": "Amazfit GTS 3",
+    "product_image": "https://i.ibb.co.com/vmmgZsG/Amazfit-GTS-3-Smartwatchhg-jpg-1500x1500.jpg",
+    "category": "Smart Watches",
+    "price": 179,
+    "description": "Amazfit GTS 3 with HD AMOLED display and comprehensive health tracking features.",
+    "specification": [
+      "1.75-inch HD AMOLED display",
+      "Blood oxygen and heart rate monitor",
+      "Over 150 sport modes",
+      "Up to 12 days battery life",
+      "Water-resistant up to 50 meters"
+    ],
+    "availability": "In Stock",
+    "rating": 4.4
+  },
+{
+    "product_id": "iP005",
+    "product_title": "Apple iPhone SE (3rd Generation)",
+    "product_image": "https://i.ibb.co.com/0nGQzZ6/5020-41819.jpg",
+    "category": "iPhone",
+    "price": 429,
+    "description": "Compact and powerful, the iPhone SE features classic design with modern performance.",
+    "specification": [
+      "4.7-inch Retina HD display",
+      "A15 Bionic chip",
+      "12MP Wide camera",
+      "Touch ID",
+      "Up to 256GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+{
+    "product_id": "P006",
+    "product_title": "Motorola Moto G Power",
+    "product_image": "https://i.ibb.co.com/DCQswd4/Motorola-Moto-G-Power-2022-Black-500x500.jpg",
+    "category": "Phones",
+    "price": 249,
+    "description": "Stay powered up for days with the long-lasting battery of the Motorola Moto G Power.",
+    "specification": [
+      "6.6-inch Max Vision display",
+      "Qualcomm Snapdragon 662 processor",
+      "48MP triple camera system",
+      "5000mAh battery",
+      "Up to 64GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.1
+  },
+
+{
+    "product_id": "L006",
+    "product_title": "ASUS ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/V9cJ7LV/Asus-ROG-Zephyrus-G14-4-3.webp",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "ASUS ROG Zephyrus G14, a powerful gaming laptop in a compact form.",
+    "specification": [
+      "14-inch Full HD display, 144Hz",
+      "AMD Ryzen 9 5900HS",
+      "16GB RAM",
+      "1TB SSD",
+      "Up to 10 hours battery life"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+ {
+    "product_id": "SW006",
+    "product_title": "Huawei Watch GT 3",
+    "product_image": "https://i.ibb.co.com/dQgVnCM/huawei-watch-gt-3-assistant.png",
+    "category": "Smart Watches",
+    "price": 229,
+    "description": "Huawei Watch GT 3 with long battery life and precise health tracking.",
+    "specification": [
+      "1.43-inch AMOLED display",
+      "Advanced heart rate and SpO2 monitoring",
+      "GPS and multiple sport modes",
+      "Up to 14 days battery life",
+      "Water-resistant up to 50 meters"
+    ],
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+{
+    "product_id": "iP006",
+    "product_title": "Apple iPhone 13",
+    "product_image": "https://i.ibb.co.com/ZLYSCD8/3408-34138.jpg",
+    "category": "iPhone",
+    "price": 699,
+    "description": "The iPhone 13 features improved battery life and camera capabilities.",
+    "specification": [
+      "6.1-inch Super Retina XDR display",
+      "A15 Bionic chip",
+      "Dual-camera system (12MP Main, 12MP Ultrawide)",
+      "Cinematic mode for video recording",
+      "Up to 512GB storage"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  }
+
+
+]

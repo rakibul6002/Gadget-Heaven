@@ -1,0 +1,9 @@
+[
+    
+    { "id": 2, "name": "Laptops", "path": "/laptops", "slug": "laptops" },
+    { "id": 3, "name": "Phones", "path": "/phones", "slug": "phones" },
+    { "id": 4, "name": "Accessories", "path": "/accessories", "slug": "accessories" },
+    { "id": 5, "name": "Smart Watches", "path": "/smart-watches", "slug": "smart-watches" },
+    { "id": 6, "name": "MacBook", "path": "/macbook", "slug": "macbook" },
+    { "id": 7, "name": "iPhone", "path": "/iphone", "slug": "iphone" }
+  ]
